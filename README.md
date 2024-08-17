@@ -8,4 +8,4 @@ Dobavılı tekst lokalno
 
 Dobavılı tekst v novıy vetke
 
-Razreshaem konflikt tekst v brauzere
+Razreshaem konflikt tekst v brauzere 2
