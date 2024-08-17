@@ -7,3 +7,5 @@ Dobavılı tekst cherez brauzer
 Dobavılı tekst lokalno
 
 Dobavılı tekst v novıy vetke
+
+Razreshaem konflikt
